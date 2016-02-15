@@ -1,0 +1,16 @@
+/build
+
+local.properties
+
+.DS_Store
+out/
+
+
+# Android Studio
+*.iml
+.idea/
+
+# Gradle stuff
+.gradle/
+build/
+out/
